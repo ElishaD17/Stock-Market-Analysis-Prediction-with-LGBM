@@ -31,8 +31,7 @@ The dataset includes stock prices from the JPX Tokyo Stock Exchange. The key fea
 EDA involves visualizing the data to understand its structure and patterns. Key analyses include:
 ## Interactive Visualizations
 
-You can view the interactive visualizations [here](jpx_market_analysis.html).
-jpx_market_analysis.html
+You can view the interactive visualizations [here](file:///C:/Users/Elish/Downloads/jpx_market_analysis.html).
 - Trend analysis over time
 - Seasonal patterns
 - Correlation between different stock prices
