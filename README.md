@@ -29,7 +29,7 @@ The dataset includes stock prices from the JPX Tokyo Stock Exchange. The key fea
 
 ## Exploratory Data Analysis
 EDA involves visualizing the data to understand its structure and patterns. Key analyses include:
-http://127.0.0.1:58168/
+jpx_market_analysis.html
 - Trend analysis over time
 - Seasonal patterns
 - Correlation between different stock prices
