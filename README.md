@@ -29,12 +29,12 @@ The dataset includes stock prices from the JPX Tokyo Stock Exchange. The key fea
 
 ## Exploratory Data Analysis
 EDA involves visualizing the data to understand its structure and patterns. Key analyses include:
-## Interactive Visualizations
-
-You can view the interactive visualizations [here](file:///C:/Users/Elish/Downloads/jpx_market_analysis.html).
 - Trend analysis over time
 - Seasonal patterns
 - Correlation between different stock prices
+- 
+## Interactive Visualizations
+You can view the interactive visualizations [here](https://raw.githubusercontent.com/ElishaD17/Stock-Market-Analysis-Prediction-with-LGBM/main/jpx_market_analysis.html?token=GHSAT0AAAAAACUMBIXJZYHSR5WVENV7EWPWZUJUMSA).
 
 ## Data Preprocessing
 Data preprocessing steps include:
