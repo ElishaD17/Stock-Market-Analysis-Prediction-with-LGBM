@@ -59,25 +59,6 @@ Future improvements could involve:
 - Trying other machine learning models like XGBoost or neural networks
 - Real-time prediction system implementation
 
-## How to Use
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/jpx-stock-market-analysis.git
-   cd jpx-stock-market-analysis
-   ```
-
-2. **Install the necessary libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook**:
-   ```bash
-   jupyter notebook JPX_Stock_Market_Analysis.ipynb
-   ```
-
-4. **Explore and modify the code** to fit your specific needs.
-
 ## References
 - [LightGBM Documentation](https://lightgbm.readthedocs.io/)
 - [JPX Tokyo Stock Exchange](https://www.jpx.co.jp/)
