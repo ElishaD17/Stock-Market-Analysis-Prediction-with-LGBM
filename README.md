@@ -43,7 +43,7 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
 
 ## Interactive Visualizations
 The interactive visualizations created in this project can be viewed using the following links:
-- [General Market Analysis Plot](file:///C:/Users/Elisha%20Damor/Downloads/jpx_market_analysis.html)
+- [General Market Analysis Plot][![Visualization](https://img.shields.io/badge/Interactive-Visualization-blue)](https://<your-username>.github.io/market-analysis-visualization/jpx_market_analysis.html)
 - [Yearly Average Stock Returns by Sector](C:\Users\Elish\kaggle\yearly_avg_stock_returns.html)
 - [Target Distribution Plot](C:\Users\Elish\kaggle\target_distribution.html)
 - [Target Distribution by Sector Plot](C:\Users\Elish\kaggle\target_distribution_by_sector.html)
