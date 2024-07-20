@@ -70,7 +70,7 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
   
 - Target Distribution by Sector Plot
   
-![mv]TDsector.png) 
+![mv](TDsector.png) 
 
 - [Candlestick Chart](C:\Users\Elish\kaggle\candlestick_chart.html)
 - [Stock Returns by Sector Plot](C:\Users\Elish\kaggle\stock_returns_by_sector.html)
