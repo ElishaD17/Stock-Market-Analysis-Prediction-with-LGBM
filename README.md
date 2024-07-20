@@ -92,6 +92,18 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
   
 ![mv](cstocks.png)
 
+- Most Correlated Stocks with Target Variable
+  
+![mv](cstocks.png)
+
+- Stock Correlation between Sectors
+  
+![mv](scsectors.png)
+
+- Stock Price Moving Average, Return, Volatillity by Sector
+  
+![mv](wec.png)
+
 
 ## Future Work
 Future improvements could involve:
@@ -104,5 +116,4 @@ Future improvements could involve:
 - [JPX Tokyo Stock Exchange](https://www.jpx.co.jp/)
 - [Kaggle](https://www.kaggle.com/)
 
-## License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
+
