@@ -72,12 +72,26 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
   
 ![mv](TDsector.png) 
 
-- [Candlestick Chart](C:\Users\Elish\kaggle\candlestick_chart.html)
-- [Stock Returns by Sector Plot](C:\Users\Elish\kaggle\stock_returns_by_sector.html)
-- [Scatter Plot Matrix](C:\Users\Elish\kaggle\scatter_plot_matrix.html)
-- [Correlation Bar Chart](C:\Users\Elish\kaggle\correlation_bar_chart.html)
-- [Sector Correlation Heatmap](C:\Users\Elish\kaggle\sector_correlation_heatmap.html)
-- [Sector Subplots](C:\Users\Elish\kaggle\sector_subplots.html)
+- Yearly average Stock Returns by Sector
+ 
+![mv](arsector.png)
+  
+- Stock Price Movements by sector
+  
+![mv](PMsector.png)
+ 
+- Stock with Highest and Lowest Returns by Sector
+  
+![mv](HLsector.png)
+
+- Highest Performing Stocks
+  
+![mv](HPstocks.png)
+
+- Most Correlated Stocks with Target Variable
+  
+![mv](cstocks.png)
+
 
 ## Future Work
 Future improvements could involve:
