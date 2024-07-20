@@ -60,11 +60,18 @@ The final average Sharpe Ratio across all folds is `0.1264` with a standard devi
 The project successfully predicts stock returns from the Tokyo Stock Exchange using historical data and advanced machine learning techniques. The visualizations and model results provide valuable insights for investors.
 
 ## Interactive Visualizations
-The interactive visualizations created in this project can be viewed using the following links:
-- [General Market Analysis Plot][![Visualization](https://img.shields.io/badge/Interactive-Visualization-blue)](https://<your-username>.github.io/<repository-name>/jpx_market_analysis.html)
-- [Yearly Average Stock Returns, Closing Price, Shares Traded by Sector] ![mv](RCR.png)
-- [Target Distribution Plot](C:\Users\Elish\kaggle\target_distribution.html)
-- [Target Distribution by Sector Plot](C:\Users\Elish\kaggle\target_distribution_by_sector.html)
+- Yearly Average Stock Returns, Closing Price, Shares Traded by Sector
+
+  ![mv](RCR.png)
+  
+- Target Distribution Plot
+  
+![mv](TD.png)
+  
+- Target Distribution by Sector Plot
+  
+![mv]TDsector.png) 
+
 - [Candlestick Chart](C:\Users\Elish\kaggle\candlestick_chart.html)
 - [Stock Returns by Sector Plot](C:\Users\Elish\kaggle\stock_returns_by_sector.html)
 - [Scatter Plot Matrix](C:\Users\Elish\kaggle\scatter_plot_matrix.html)
