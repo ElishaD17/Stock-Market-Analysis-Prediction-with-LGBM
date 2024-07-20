@@ -92,10 +92,6 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
   
 ![mv](cstocks.png)
 
-- Most Correlated Stocks with Target Variable
-  
-![mv](cstocks.png)
-
 - Stock Correlation between Sectors
   
 ![mv](scsectors.png)
@@ -103,7 +99,6 @@ The project successfully predicts stock returns from the Tokyo Stock Exchange us
 - Stock Price Moving Average, Return, Volatillity by Sector
   
 ![mv](wec.png)
-
 
 ## Future Work
 Future improvements could involve:
